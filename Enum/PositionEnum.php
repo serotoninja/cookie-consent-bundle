@@ -11,15 +11,19 @@ namespace ConnectHolland\CookieConsentBundle\Enum;
 
 class PositionEnum
 {
-    const POSITION_TOP     = 'top';
-    const POSITION_BOTTOM  = 'bottom';
+    const POSITION_TOP_LEFT = 'top-left';
+    const POSITION_TOP_RIGHT = 'top-right';
+    const POSITION_BOTTOM_LEFT = 'bottom-left';
+    const POSITION_BOTTOM_RIGHT = 'bottom-right';
 
     /**
      * @var array
      */
     private static $positions = [
-        self::POSITION_TOP,
-        self::POSITION_BOTTOM,
+        self::POSITION_TOP_LEFT,
+        self::POSITION_TOP_RIGHT,
+        self::POSITION_BOTTOM_LEFT,
+        self::POSITION_BOTTOM_RIGHT,
     ];
 
     /**

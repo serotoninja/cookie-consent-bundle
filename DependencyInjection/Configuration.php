@@ -42,7 +42,7 @@ class Configuration implements ConfigurationInterface
                     ->values(ThemeEnum::getAvailableThemes())
                 ->end()
                 ->enumNode('position')
-                    ->defaultValue(PositionEnum::POSITION_TOP)
+                    ->defaultValue(PositionEnum::POSITION_TOP_LEFT)
                     ->values(PositionEnum::getAvailablePositions())
                 ->end()
                 ->booleanNode('use_logger')
