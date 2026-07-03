@@ -2,7 +2,7 @@
 Symfony bundle to append Cookie Consent to your website to comply to AVG/GDPR for cookies.
 
 > [!WARNING]
-> ⚠️ NETWORK TERMINATED
+> NETWORK TERMINATED
 > 
 > The operators have disconnected. The code remains, but its future does not. No 
 > maintenance. No feature development. No security updates. If you choose to 
