@@ -1,16 +1,12 @@
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ConnectHolland/cookie-consent-bundle/badges/quality-score.png?b=master&s=15b793ae2474fa313d343c43f30ce4f9aa594f00)](https://scrutinizer-ci.com/g/ConnectHolland/cookie-consent-bundle/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/ConnectHolland/cookie-consent-bundle/badges/coverage.png?b=master&s=d8e84bcf2e3e5bed47d4c6aa4702f246de74dbdf)](https://scrutinizer-ci.com/g/ConnectHolland/cookie-consent-bundle/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/ConnectHolland/cookie-consent-bundle/badges/build.png?b=master&s=bcccde957df75df8622fa346ba348dee002efebb)](https://scrutinizer-ci.com/g/ConnectHolland/cookie-consent-bundle/build-status/master)
+# Cookie Consent bundle for Symfony
+Symfony bundle to append Cookie Consent to your website to comply to AVG/GDPR for cookies.
 
-> [!WARNING] ⚠️ NETWORK TERMINATED
+> [!WARNING]
+> ⚠️ NETWORK TERMINATED
 > 
 > The operators have disconnected. The code remains, but its future does not. No 
 > maintenance. No feature development. No security updates. If you choose to 
 > interface with this relic, you do so at your own risk.
-
-
-# Cookie Consent bundle for Symfony
-Symfony bundle to append Cookie Consent to your website to comply to AVG/GDPR for cookies.
 
 ## Installation
 
